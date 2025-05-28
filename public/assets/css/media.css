@@ -1,0 +1,61 @@
+@media (max-width: 575.98px) {
+    .hero{ height:70vh;}
+    .hero .carousel-item {padding-top:50px;}
+    .hero .carousel-item h3{font-size: 1rem; line-height: 1.5rem;}
+    .hero .carousel-item p{font-size: 1.5rem; line-height: 2rem;}
+    .about h3{font-size: 1.2rem;line-height: 1.5rem;}
+    .about {padding: 20px 0px;}
+    .header .logo img{max-height:50px;}
+    .about .smart-icons{
+        flex-direction: column;}
+        .mobile-nav-toggle {
+        display: block;
+        position: absolute; 
+        right: 20px;
+        top: 30px;
+    }
+    .cart-dropdown {position: absolute;  right: 40px;width: 160px;}
+    .about h2{font-size: 1rem;margin: .5rem 0;line-height: 1.52rem;}
+    .abt-content{width:90%;}
+    .channel, .footer-top, .services,.home-tridium,.home-hvac,.inner-page{padding:20px 0!important;}
+    .section-header p span{width:25%; bottom:-10px;}
+    .footer .footer-top .footer-info .logo{justify-content: center;}
+    .footer-top{text-align:center;}
+    .footer .location p{justify-content: center;}
+    .details h3{font-size: 1.4rem;}
+    .inner-tag-section{font-size: 2rem;margin-bottom:1.5rem;}
+    .tagBox-container{flex-direction:column;}
+    .tagBox{width:100%;}
+    .inner-banner{min-height: 200px;background-size: cover;}
+    .inner-banner .page-title{text-align:center;font-size: 2.5rem !important;}
+    .inner-contact{padding: 10px;    margin: 1rem;}
+    .contact-details{position:relative;padding:1rem;margin-bottom: 2rem;}
+    .contact-details h3{font-size: 1.5rem;}
+    .contact-details-box p{font-size:1rem;}
+    .contact-connect{margin-top: 2rem;  padding-top: 1rem;}
+    .connect-icons{margin-top:.5rem;width: 50%;}
+    .connect-icons img{width:75%;}
+    .section-header{margin-top: 80px;padding-bottom:0px;}
+    .section-header p{font-size: 25px;line-height: 40px;}
+    .cart-page{margin-top:60px;}
+}
+
+
+@media (max-width: 767.98px) {
+    
+}
+
+
+@media (max-width: 991.98px) {
+    
+}
+
+
+@media (max-width: 1199.98px) {
+    
+}
+
+
+@media (max-width: 1399.98px) {
+    
+}

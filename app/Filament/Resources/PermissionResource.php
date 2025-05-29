@@ -18,6 +18,7 @@ class PermissionResource extends Resource
     protected static ?string $model = Permission::class;
 
     protected static ?string $navigationIcon = 'heroicon-o-key';
+    protected static bool $shouldRegisterNavigation = false;
     protected static ?string $navigationGroup = 'Admin Management';
     protected static ?int $navigationSort = 1;
 

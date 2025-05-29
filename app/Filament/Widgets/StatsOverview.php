@@ -26,18 +26,18 @@ class StatsOverview extends BaseWidget
     {
         return [
             //            
-            Stat::make('Banner Videos',  Video::count())
-            ->description('Count')
-            ->descriptionIcon('heroicon-o-rectangle-stack')
-            ->color('success'),
+            // Stat::make('Banner Videos',  Video::count())
+            // ->description('Count')
+            // ->descriptionIcon('heroicon-o-rectangle-stack')
+            // ->color('success'),
             Stat::make('Sliders',  Slider::count())
             ->description('Count')
             ->descriptionIcon('heroicon-o-clipboard-document-list')
             ->color('success'),
-            Stat::make('Channels',  Channel::count())
-            ->description('Count')
-            ->descriptionIcon('heroicon-o-users')
-            ->color('success'),
+            // Stat::make('Channels',  Channel::count())
+            // ->description('Count')
+            // ->descriptionIcon('heroicon-o-users')
+            // ->color('success'),
             
             Stat::make('Total no. of orders',  Order::count())
             ->description('Count')

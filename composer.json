@@ -20,6 +20,7 @@
         "laravel/sanctum": "^3.3",
         "laravel/socialite": "^5.11",
         "laravel/tinker": "^2.8",
+        "ext-intl": "*",
         "laraveldaily/laravel-invoices": "^3.3",
         "razorpay/razorpay": "2.*",
         "spatie/eloquent-sortable": "^4.4",
